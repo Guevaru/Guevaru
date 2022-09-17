@@ -3,7 +3,7 @@
 <h3 align="center">👀 I'm a passion driven Programmer from Nigeria</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **Django and I work with HTML, CSS, JavaSript, Python and SQL ...**
+- 🌱 I’m currently learning **Django and I work with HTML, CSS, JavaSript, Python and SQL **
 
 - 💞️ I’m looking to work with **and engage in any form of projects associated with my field**
 
