@@ -31,7 +31,7 @@
   </a>
  <!-- MS Word -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/file-word?style=brands" alt="MS Word" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="MS Word" width="40" height="40"/>
   </a>
   <!-- MS PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
