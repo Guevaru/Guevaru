@@ -1,9 +1,9 @@
 [![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
-<h1 align="center"> 👋 Hi, I'm Olajuwon Abdulbasit a.k.a Mr xtra-laj tank</h1>
-<h3 align="center">👀 I'm a passion driven software engineer from Nigeria</h3>
+<h1 align="center"> 👋 Hi, I'm Olajuwon Abdulbasit </h1>
+<h3 align="center">👀 I'm a passion driven Data Science Enthusiat from Nigeria</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **Data Analysis and I work with HTML, CSS, JavaSript, Python, Django and SQL **
+- 🌱 I’m currently learning **PowerBI and I work with a wide range of technology cutting across Web development tools like HTML, CSS, Bootstrap, JavaScript, ReactJS, Django and MySQL**
 
 - 💞️ I’m looking to work with **and engage in any form of projects associated with my field, learn more and work as a data scientist for a geospatial information organisation **
 
