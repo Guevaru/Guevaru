@@ -31,42 +31,30 @@
   </a>
  <!-- MS Word -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="MS Word" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msword/msword-original.svg" alt="MS Word" width="40" height="40"/>
   </a>
   <!-- MS PowerPoint -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
     <img src="https://fontawesome.com/icons/file-powerpoint?style=brands" alt="MS PowerPoint" width="40" height="40"/>
   </a>
-  <!-- MS Excel -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/file-excel?style=brands" alt="MS Excel" width="40" height="40"/>
   </a>
   <!-- SQL -->
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/database?style=regular" alt="SQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
   <!-- GIS -->
   <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/globe?style=solid" alt="GIS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="GIS" width="40" height="40"/>
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/table?style=solid" alt="Tableau" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="Tableau" width="40" height="40"/>
   </a>
   <!-- PowerBI -->
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/chart-bar?style=solid" alt="PowerBI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="PowerBI" width="40" height="40"/>
   </a>
-<!-- Add MS Word icon -->
-<a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-  <img src="https://fontawesome.com/icons/file-word?style=brands" alt="MS Word" width="40" height="40"/>
-</a>
-<!-- Add MS PowerPoint icon -->
-<a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-  <img src="https://fontawesome.com/icons/file-powerpoint?style=brands" alt="MS PowerPoint" width="40" height="40"/>
-</a> 
-</p>
-
+  </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guevaru&show_icons=true&locale=en" alt="guevaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guevaru&" alt="guevaru" /></p>
