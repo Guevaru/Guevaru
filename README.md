@@ -29,31 +29,16 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   </a>
- <!-- MS Word -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msword/msword-original.svg" alt="MS Word" width="40" height="40"/>
-  </a>
-  <!-- MS PowerPoint -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer">
-    <img src="https://fontawesome.com/icons/file-powerpoint?style=brands" alt="MS PowerPoint" width="40" height="40"/>
-  </a>
   </a>
   <!-- SQL -->
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
   <!-- GIS -->
   <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="GIS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gis/gis-original.svg" alt="GIS" width="40" height="40"/>
   </a>
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original-wordmark.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  <!-- PowerBI -->
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="PowerBI" width="40" height="40"/>
-  </a>
+
   </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guevaru&show_icons=true&locale=en" alt="guevaru" /></p>
 
