@@ -3,9 +3,9 @@
 <h3 align="center">👀 I'm a passion driven Data Science Enthusiat from Nigeria</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **PowerBI and I work with a wide range of technology cutting across Web development tools like HTML, CSS, Bootstrap, JavaScript, ReactJS, Django and MySQL**
+- 🌱 I’m currently learning **PowerBI and I proficiently work with a wide range of technology cutting across Web development tools like HTML, CSS, Bootstrap, JavaScript, ReactJS, Django, and MySQL, and Data Analysis tools such as MS EXCEL, SQL, Python, Geographic Information System (GIS), Tableau, and PowerBI. **
 
-- 💞️ I’m looking to work with **and engage in any form of projects associated with my field, learn more and work as a data scientist for a geospatial information organisation **
+- 💞️ I’m looking to work with **and engage in any form of projects associated with my field, learn more, and work as a data-oriented professional with all forms of organization **
 
 - 📫 How to reach me ; **contact my email 'interactwithibnshazali@gmail.com'**
 
