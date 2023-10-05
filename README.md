@@ -12,16 +12,16 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Unit Testing in Python with PyTest Framework](https://medium.com/@interactwithibnshazali/unit-testing-in-python-with-pytest-framework-223f7ea5af16)
-  - ![Unit Testing](https://your-image-preview-url-here.com/image1.jpg)
+  - ![Unit Testing](https://miro.medium.com/v2/resize:fit:1100/0*lNEYQ33oJ9LRK5lL)
 
 - [The Epic Clash: Python's Django vs. Node.js - Unleashing the Backend Titans for Limitless Scaling](https://medium.com/@interactwithibnshazali/the-epic-clash-pythons-django-vs-node-js-unleashing-the-backend-titans-for-limitless-scaling-f41c926ea434)
-  - ![Django vs. Node.js](https://your-image-preview-url-here.com/image2.jpg)
+  - ![Django vs. Node.js](https://miro.medium.com/v2/resize:fit:828/format:webp/1*rUhmm8cWAC1dPpnlaxyvjg.jpeg)
 
 - [How to Optimize Your Python Code for Better Performance](https://medium.com/@interactwithibnshazali/how-to-optimize-your-python-code-for-better-performance-fe72df869d3f)
-  - ![Optimize Python Code](https://your-image-preview-url-here.com/image3.jpg)
+  - ![Optimize Python Code](https://miro.medium.com/v2/resize:fit:1100/0*5PK0jeR3zV5XcXJB)
 
 - [Unorthodox Python Productivity Hacks: Elevate Your Code Game with Fun and Finesse - Part One](https://medium.com/@interactwithibnshazali/unorthodox-python-productivity-hacks-elevate-your-code-game-with-fun-and-finesse-part-one-ec694cc5a331)
-  - ![Python Productivity Hacks](https://your-image-preview-url-here.com/image4.jpg)
+  - ![Python Productivity Hacks](https://miro.medium.com/v2/resize:fit:1100/0*9aoGpz0hY9W8Wn2o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
