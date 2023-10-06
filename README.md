@@ -26,12 +26,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/capjuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capjuwon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulbasit olajuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbasit olajuwon" height="30" width="40" /></a>
+<a href="https://twitter.com/CapJuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capjuwon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulbasit-olajuwon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbasit olajuwon" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulbasit olajuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulbasit olajuwon" height="30" width="40" /></a>
-<a href="https://instagram.com/cap_juwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cap_juwon" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulbasit olajuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulbasit olajuwon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdulbasit olajuwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulbasit olajuwon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cap_juwon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cap_juwon" height="30" width="40" /></a>
+<a href="https://medium.com/@interactwithibnshazali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulbasit olajuwon" height="30" width="40" /></a>
+<a href="https://leetcode.com/Guevaru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulbasit olajuwon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
