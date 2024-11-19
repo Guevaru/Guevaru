@@ -1,10 +1,10 @@
 [![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 <h1 align="center"> 👋 Hi, I'm Abdulbasit </h1>
-<h3 align="center">👀 I'm a passion driven Data Science Enthusiat from Nigeria</h3>
+<h3 align="center">👀 I'm a Python Solution Developer from Nigeria</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **PowerBI and I proficiently work with a wide range of technology cutting across Web development tools like HTML, CSS, Bootstrap, JavaScript, ReactJS, Django, and MySQL, to writing and report tools such as MS Word, Ms PowerPoint, and others and also Data Analysis tools such as MS EXCEL, SQL, Python, Geographic Information System (GIS), Tableau, and PowerBI. **
-
+- 🌱 I’m  passionate about providing solutions to problems. With a foundation in  Python development and Data Solutions, I’ve driven improvements across roles by combining a strategic approach to data workflows, automation, Visualization and Algorithmic flows. I enjoy transforming data into actionable insights that empower teams and support data-driven decisions. In my technical journey, I’ve honed a diverse toolkit, including Python, SQL, Data Structure and Algorithm, Machine learning, Data mining, EDA, Data manipulation, and Data Viz, which I apply to streamline operations and enhance decision-making. My background in technical writing also allows me to bridge the gap between complex technical information and clear, accessible insights that help audiences understand and utilize data. Whether I'm building data automation tools or creating interactive visualizations, I aim to make an impact through innovation and clarity.
+  
 - 💞️ I’m looking to work with **and engage in any form of projects associated with my field, learn more, and work as a data-oriented professional with all forms of organization **
 
 - 📫 How to reach me ; **contact my email 'interactwithibnshazali@gmail.com'**
